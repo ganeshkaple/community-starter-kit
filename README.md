@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
-sample repo for course community starter kit
+Nothing here, Just a sample git repo for the course
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It teaches me how to use github for community
 
 ## Getting started
 
