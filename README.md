@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+sample repo for course community starter kit
 
 ## What it does
 
