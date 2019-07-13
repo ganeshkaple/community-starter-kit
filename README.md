@@ -1,10 +1,9 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+Nothing here, Just a sample git repo for the course
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It teaches me how to use github for community
 
 ## Getting started
 
